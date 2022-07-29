@@ -1,3 +1,5 @@
+![banner](https://github.com/opensource-joe/opensource-joe/blob/main/ReadmeBanner.png)
+
 ### Hi there 👋
 
 (Excuse the mess - this is a work in progress 🥸)
