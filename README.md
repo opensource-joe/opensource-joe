@@ -1,4 +1,4 @@
-![banner](https://github.com/opensource-joe/opensource-joe/blob/main/ReadmeBanner.png)
+![banner](https://github.com/opensource-joe/opensource-joe/blob/main/Banner-new.png)
 
 ### Hi there 👋
 
