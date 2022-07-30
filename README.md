@@ -1,7 +1,5 @@
 ![banner](https://github.com/opensource-joe/opensource-joe/blob/main/Banner-new.png)
 
-### Hi there 👋
-
 - Pronouns: He/Him
 - Latest [resume](https://github.com/opensource-joe/opensource-joe/blob/main/Resume.pdf)
 - Original GitHub profiles: [@jcastle](https://github.com/jcastle) and [@jcastle-zz](https://github.com/jcastle-zz) - these served my time as [OSPO](https://opensource.com/article/20/5/open-source-program-office) director for the US federal government.
