@@ -48,15 +48,6 @@ I've spent two decades at the intersection of **technology, policy, and public s
   <img src="https://img.shields.io/badge/Open%20Data-3B7A57?style=flat&logo=datasette&logoColor=white" alt="Open Data">
 </p>
 
-### 📊 GitHub
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=opensource-joe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opensource-joe&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=opensource-joe&theme=flat&no-frame=true&column=7&margin-w=8" alt="Trophies">
-</p>
-
 ### 📫 Connect
 - **LinkedIn:** [linkedin.com/in/jrcastle](https://www.linkedin.com/in/jrcastle)
 
