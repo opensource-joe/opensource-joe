@@ -38,6 +38,7 @@ I use AI coding assistants to get up to speed on unfamiliar codebases quickly. I
 
 ### 🏛️ Background
 - **VP, Technology Solutions at [HumanTouch, LLC](https://www.humantouch.ai/)**: leading AI engineering and agentic-AI workflows on the **[CORASai](https://coras.ai/)** platform in collaboration with federal agencies, carrying two decades of open-source and gov-tech leadership into the AI era
+- **Maryland Governor Appointment to the Council for Open Data**: supporting the State Chief Data Officer (CDO) on implementation of SB0200/HB0262 by working with state agencies and local governments to meet the Governor's priorities
 - **Director, Code.gov**: ran the federal Open Source Program Office (OSPO) and grew federal open-source participation from 45 to 7,000 repositories across 20 agencies. Brought the platform into **Section 508** compliance and added automated accessibility testing to its CI pipeline
 - **The White House** (Executive Office of the President): developed M-13-13 Open Data Policy Supplemental Guidance and implemented the President's Digital Strategy
 - Contributor to federal open-source and AI policy, including the Federal Source Code Policy (which became the **SHARE IT Act**, signed into law in 2024) and OMB **M-24-10**
