@@ -21,14 +21,24 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - Shipping small, useful PRs (**accessibility**, docs, and bug fixes) across projects I actually use.
 
 ### 🌱 Recent open-source contributions
+
+**AI & LLM tooling**
+- **[OpenHands](https://github.com/OpenHands/OpenHands)**: provider configuration fix in the agentic coding UI
+- **[Aider](https://github.com/Aider-AI/aider)**: scripting documentation fix
+
+**Public sector & open data**
 - **[code.gov](https://github.com/GSA/code-gov)** (GSA): schema and content fixes
 - **[USWDS](https://github.com/uswds/uswds)** (U.S. Web Design System): accessibility fixes
+- **[CKAN](https://github.com/ckan/ckan)**: accessibility fixes to the open-data platform behind catalog.data.gov
 - **[Datasette](https://github.com/simonw/datasette)**: a11y improvements
 - **[government.github.com](https://github.com/github/government.github.com)**: maintaining the government GitHub org listing
 
+### 🤖 How I work
+I use AI coding assistants (Claude Code) to get up to speed on unfamiliar codebases quickly. I read, run, and take responsibility for everything I submit — if a patch of mine is wrong, that's on me. Reviewer time is the scarcest resource in open source, and I try hard not to waste it.
+
 ### 🏛️ Background
 - **VP, Technology Solutions at [HumanTouch, LLC](https://www.humantouch.ai/)**: leading AI engineering and agentic-AI workflows on the **[CORASai](https://coras.ai/)** platform in collaboration with federal agencies, carrying two decades of open-source and gov-tech leadership into the AI era
-- **Director, Code.gov**: ran the federal Open Source Program Office (OSPO) and grew federal open-source participation from 45 to 7,000 repositories across 20 agencies
+- **Director, Code.gov**: ran the federal Open Source Program Office (OSPO) and grew federal open-source participation from 45 to 7,000 repositories across 20 agencies. Brought the platform into **Section 508** compliance and added automated accessibility testing to its CI pipeline
 - **Founder, GSA Digital Service** · **The White House** (Executive Office of the President) alum
 - Contributor to federal open-source and AI policy, including the Federal Source Code Policy (which became the **SHARE IT Act**, signed into law in 2024) and OMB **M-24-10**
 - **GitHub Star**, 2021-2024 · **Fed100**, 2019
