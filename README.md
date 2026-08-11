@@ -34,12 +34,12 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[government.github.com](https://github.com/github/government.github.com)**: maintaining the government GitHub org listing
 
 ### 🤖 How I work
-I use AI coding assistants (Claude Code) to get up to speed on unfamiliar codebases quickly. I read, run, and take responsibility for everything I submit — if a patch of mine is wrong, that's on me. Reviewer time is the scarcest resource in open source, and I try hard not to waste it.
+I use AI coding assistants to get up to speed on unfamiliar codebases quickly. I read, run, and take responsibility for everything I submit, and if a patch of mine is wrong, that's on me. Reviewer time is the scarcest resource in open source, and I try hard not to waste it.
 
 ### 🏛️ Background
 - **VP, Technology Solutions at [HumanTouch, LLC](https://www.humantouch.ai/)**: leading AI engineering and agentic-AI workflows on the **[CORASai](https://coras.ai/)** platform in collaboration with federal agencies, carrying two decades of open-source and gov-tech leadership into the AI era
 - **Director, Code.gov**: ran the federal Open Source Program Office (OSPO) and grew federal open-source participation from 45 to 7,000 repositories across 20 agencies. Brought the platform into **Section 508** compliance and added automated accessibility testing to its CI pipeline
-- **Founder, GSA Digital Service** · **The White House** (Executive Office of the President) alum
+- **The White House** (Executive Office of the President): developed M-13-13 Open Data Policy Supplemental Guidance and implemented the President's Digital Strategy
 - Contributor to federal open-source and AI policy, including the Federal Source Code Policy (which became the **SHARE IT Act**, signed into law in 2024) and OMB **M-24-10**
 - **GitHub Star**, 2021-2024 · **Fed100**, 2019
 - **PhD**, Public Administration and Public Affairs. Dissertation: [*An Organizational Analysis of Publishing the People's Code*](https://vtechworks.lib.vt.edu/items/ba831b9c-9422-45f1-bcdd-f82ef8524897)
