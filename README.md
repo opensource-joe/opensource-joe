@@ -29,6 +29,8 @@ I've spent two decades at the intersection of **technology, policy, and public s
 **Public sector & open data**
 - **[code.gov](https://github.com/GSA/code-gov)** (GSA): schema and content fixes
 - **[USWDS](https://github.com/uswds/uswds)** (U.S. Web Design System): [Community Contributor](https://github.com/uswds/uswds/blob/develop/COMMUNITY.md#uswds-community-contributors); accessibility, PR review, and issue triage
+- **[GOV.UK Design System](https://github.com/alphagov/govuk-frontend)**: layout fix to the summary card component
+- **[GC Design System](https://github.com/cds-snc/gcds-components)**: accessibility fix to the file uploader, Canada's Digital Service
 - **[CKAN](https://github.com/ckan/ckan)**: accessibility fixes to the open-data platform behind catalog.data.gov
 - **[Datasette](https://github.com/simonw/datasette)**: a11y improvements
 - **[government.github.com](https://github.com/github/government.github.com)**: maintaining the government GitHub org listing
