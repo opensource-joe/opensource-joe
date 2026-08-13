@@ -23,17 +23,21 @@ I've spent two decades at the intersection of **technology, policy, and public s
 ### 🌱 Recent open-source contributions
 
 **AI & LLM tooling**
-- **[OpenHands](https://github.com/OpenHands/OpenHands)**: provider configuration fix in the agentic coding UI — *merged*
-- **[Aider](https://github.com/Aider-AI/aider)**: scripting documentation fix — *in review*
+- **[OpenHands](https://github.com/OpenHands/OpenHands)**: an open-source platform for AI-driven software development agents.
+- **[Aider](https://github.com/Aider-AI/aider)**: AI pair programming in the terminal.
+- **[Lex](https://github.com/i-dot-ai/lex)** (i.AI, UK AI Incubator): a UK legal API for AI agents and researchers.
+
+**Government design systems**
+- **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
+- **[GOV.UK Design System](https://github.com/alphagov/govuk-frontend)**: the front-end code behind UK government platforms and services.
+- **[GC Design System](https://github.com/cds-snc/gcds-components)** (Canadian Digital Service): the web components behind Government of Canada digital services.
 
 **Public sector & open data**
-- **[code.gov](https://github.com/GSA/code-gov)** (GSA): schema and content fixes — *in review*
-- **[USWDS](https://github.com/uswds/uswds)** (U.S. Web Design System): [Community Contributor](https://github.com/uswds/uswds/blob/develop/COMMUNITY.md#uswds-community-contributors) — *accepted*; accessibility, PR review, and issue triage — *in review*
-- **[GOV.UK Design System](https://github.com/alphagov/govuk-frontend)**: layout fix to the summary card component — *in review*
-- **[GC Design System](https://github.com/cds-snc/gcds-components)**: accessibility fix to the file uploader, Canada's Digital Service — *merged*
-- **[CKAN](https://github.com/ckan/ckan)**: accessibility fixes to the open-data platform behind catalog.data.gov — *in review*
-- **[Datasette](https://github.com/simonw/datasette)**: a11y improvements — *in review*
-- **[government.github.com](https://github.com/github/government.github.com)**: maintaining the government GitHub org listing — *merged*
+- **[code.gov](https://github.com/GSA/code-gov)** (GSA): the U.S. federal government's open source code in support of M-16-21.
+- **[CKAN](https://github.com/ckan/ckan)**: the open-source data management system powering catalog.data.gov, open.canada.ca/data, and data.humdata.org.
+- **[Datasette](https://github.com/simonw/datasette)**: an open source multi-tool for exploring and publishing data.
+- **[government.github.com](https://github.com/github/government.github.com)**: the directory of government organizations using GitHub for open government work.
+- **[BC Wallet](https://github.com/bcgov/bc-wallet-mobile)** (Government of B.C.): a mobile wallet for verifiable credentials.
 
 ### 🤖 How I work
 I use AI coding assistants to get up to speed on unfamiliar codebases quickly. I read, run, and take responsibility for everything I submit, and if a patch of mine is wrong, that's on me. Reviewer time is the scarcest resource in open source, and I try hard not to waste it.
