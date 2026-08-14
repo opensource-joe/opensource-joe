@@ -39,6 +39,10 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[government.github.com](https://github.com/github/government.github.com)**: the directory of government organizations using GitHub for open government work.
 - **[BC Wallet](https://github.com/bcgov/bc-wallet-mobile)** (Government of B.C.): a mobile wallet for verifiable credentials.
 
+**Financial infrastructure**
+- **[Apache Fineract](https://github.com/apache/fineract-backoffice-ui)**: the back-office UI for Apache Fineract, the open-source core banking platform.
+- **[Architecture as Code](https://github.com/finos/architecture-as-code)** (FINOS): a machine-readable, version-controlled way to define and manage software architecture.
+
 ### 📊 Writing & analysis
 - **[Government Open Source: An Analysis](https://joecastle.dev/gov-oss-analysis/)** ([repo](https://github.com/opensource-joe/gov-oss-analysis)): a census of the 1,079 government GitHub organizations on `governments.yml`: 75,638 public repos, how much is still maintained, and how much accepts outside contributions.
 
