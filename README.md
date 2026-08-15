@@ -43,6 +43,9 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[Apache Fineract](https://github.com/apache/fineract-backoffice-ui)**: the back-office UI for Apache Fineract, the open-source core banking platform.
 - **[Architecture as Code](https://github.com/finos/architecture-as-code)** (FINOS): a machine-readable, version-controlled way to define and manage software architecture.
 
+**API & cloud infrastructure**
+- **[Apache APISIX Dashboard](https://github.com/apache/apisix-dashboard)**: the dashboard for Apache APISIX, the cloud-native API and AI gateway.
+
 ### 📊 Writing & analysis
 - **[Government Open Source: An Analysis](https://joecastle.dev/gov-oss-analysis/)** ([repo](https://github.com/opensource-joe/gov-oss-analysis)): a census of the 1,079 government GitHub organizations on `governments.yml`: 75,638 public repos, how much is still maintained, and how much accepts outside contributions.
 
