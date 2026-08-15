@@ -17,7 +17,7 @@ I've spent two decades at the intersection of **technology, policy, and public s
 
 ### 🔭 Currently
 - Building a federal **agentic AI** practice by day, contributing to **open-source AI** by night.
-- Going deep on the **Model Context Protocol (MCP)**, agent frameworks, and LLM tooling.
+- Going deep on the **Model Context Protocol (MCP)**, agent frameworks, and **AI gateways**: the layer where LLM traffic meets API infrastructure.
 - Shipping small, useful PRs (**accessibility**, docs, and bug fixes) across projects I actually use.
 
 ### 🌱 Recent open-source contributions
