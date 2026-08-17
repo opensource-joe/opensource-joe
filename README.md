@@ -30,11 +30,13 @@ I've spent two decades at the intersection of **technology, policy, and public s
 
 **Python & developer ecosystem**
 - **[Python Developer's Guide](https://github.com/python/devguide)**: the official guide to contributing to CPython itself, covering setup, workflow, and the standards the language is developed under.
+- **[Furo](https://github.com/pradyunsg/furo)**: the Sphinx documentation theme behind the Python Developer's Guide, CPython's own documentation, and a large share of the Python ecosystem.
 
 **Government design systems**
 - **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
 - **[GOV.UK Design System](https://github.com/alphagov/govuk-frontend)**: the front-end code behind UK government platforms and services.
 - **[GC Design System](https://github.com/cds-snc/gcds-components)** (Canadian Digital Service): the web components behind Government of Canada digital services.
+- **[GC Design System Docs](https://github.com/cds-snc/gcds-docs)** (Canadian Digital Service): the bilingual documentation site teams use to adopt the GC Design System.
 - **[Web Experience Toolkit](https://github.com/wet-boew/wet-boew)** (Government of Canada): the open-source library behind accessible, usable, and interoperable Government of Canada websites.
 
 **Public sector & open data**
