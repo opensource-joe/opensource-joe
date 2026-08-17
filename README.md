@@ -28,6 +28,9 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[Lex](https://github.com/i-dot-ai/lex)** (i.AI, UK AI Incubator): a UK legal API for AI agents and researchers.
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**: a self-hostable, all-in-one application for turning documents and content into context for any LLM, with agents and RAG built in.
 
+**Python & developer ecosystem**
+- **[Python Developer's Guide](https://github.com/python/devguide)**: the official guide to contributing to CPython itself, covering setup, workflow, and the standards the language is developed under.
+
 **Government design systems**
 - **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
 - **[GOV.UK Design System](https://github.com/alphagov/govuk-frontend)**: the front-end code behind UK government platforms and services.
@@ -48,6 +51,7 @@ I've spent two decades at the intersection of **technology, policy, and public s
 
 **API & cloud infrastructure**
 - **[Apache APISIX Dashboard](https://github.com/apache/apisix-dashboard)**: the dashboard for Apache APISIX, the cloud-native API and AI gateway.
+- **[Apache ActiveMQ Artemis Console](https://github.com/apache/artemis-console)**: the management console for Apache ActiveMQ Artemis, the high-performance open-source message broker.
 
 ### 📊 Writing & analysis
 - **[Government Open Source: An Analysis](https://joecastle.dev/gov-oss-analysis/)** ([repo](https://github.com/opensource-joe/gov-oss-analysis)): a census of the 1,079 government GitHub organizations on `governments.yml`: 75,638 public repos, how much is still maintained, and how much accepts outside contributions.
