@@ -26,14 +26,17 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[OpenHands](https://github.com/OpenHands/OpenHands)**: an open-source platform for AI-driven software development agents.
 - **[Aider](https://github.com/Aider-AI/aider)**: AI pair programming in the terminal.
 - **[Lex](https://github.com/i-dot-ai/lex)** (i.AI, UK AI Incubator): a UK legal API for AI agents and researchers.
+- **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**: a self-hostable, all-in-one application for turning documents and content into context for any LLM, with agents and RAG built in.
 
 **Government design systems**
 - **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
 - **[GOV.UK Design System](https://github.com/alphagov/govuk-frontend)**: the front-end code behind UK government platforms and services.
 - **[GC Design System](https://github.com/cds-snc/gcds-components)** (Canadian Digital Service): the web components behind Government of Canada digital services.
+- **[Web Experience Toolkit](https://github.com/wet-boew/wet-boew)** (Government of Canada): the open-source library behind accessible, usable, and interoperable Government of Canada websites.
 
 **Public sector & open data**
 - **[code.gov](https://github.com/GSA/code-gov)** (GSA): the U.S. federal government's open source code in support of M-16-21.
+- **[repo-scaffolder](https://github.com/DSACMS/repo-scaffolder)** (Digital Service at CMS): templates and command-line tools for creating U.S. federal open-source repositories that meet policy requirements.
 - **[CKAN](https://github.com/ckan/ckan)**: the open-source data management system powering catalog.data.gov, open.canada.ca/data, and data.humdata.org.
 - **[Datasette](https://github.com/simonw/datasette)**: an open source multi-tool for exploring and publishing data.
 - **[government.github.com](https://github.com/github/government.github.com)**: the directory of government organizations using GitHub for open government work.
