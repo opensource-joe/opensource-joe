@@ -29,6 +29,7 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**: a self-hostable, all-in-one application for turning documents and content into context for any LLM, with agents and RAG built in.
 - **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)**: the official Python SDK for the Model Context Protocol, the standard for connecting AI assistants to external tools and data.
 - **[Gradio](https://github.com/gradio-app/gradio)**: the Python library for building and sharing machine-learning demos and web apps, used across Hugging Face Spaces.
+- **[Chainlit](https://github.com/Chainlit/chainlit)**: the open-source Python framework for building conversational AI applications and their chat interfaces.
 
 **Python & developer ecosystem**
 - **[Python Developer's Guide](https://github.com/python/devguide)**: the official guide to contributing to CPython itself, covering setup, workflow, and the standards the language is developed under.
