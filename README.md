@@ -27,10 +27,12 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[Aider](https://github.com/Aider-AI/aider)**: AI pair programming in the terminal.
 - **[Lex](https://github.com/i-dot-ai/lex)** (i.AI, UK AI Incubator): a UK legal API for AI agents and researchers.
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**: a self-hostable, all-in-one application for turning documents and content into context for any LLM, with agents and RAG built in.
+- **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)**: the official Python SDK for the Model Context Protocol, the standard for connecting AI assistants to external tools and data.
 
 **Python & developer ecosystem**
 - **[Python Developer's Guide](https://github.com/python/devguide)**: the official guide to contributing to CPython itself, covering setup, workflow, and the standards the language is developed under.
 - **[Furo](https://github.com/pradyunsg/furo)**: the Sphinx documentation theme behind the Python Developer's Guide, CPython's own documentation, and a large share of the Python ecosystem.
+- **[python.org](https://github.com/python/pythondotorg)**: the Django application behind python.org itself, including the Python Software Foundation's membership, jobs board, and public board records.
 
 **Government design systems**
 - **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
