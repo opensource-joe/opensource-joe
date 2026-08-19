@@ -28,6 +28,7 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[Lex](https://github.com/i-dot-ai/lex)** (i.AI, UK AI Incubator): a UK legal API for AI agents and researchers.
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**: a self-hostable, all-in-one application for turning documents and content into context for any LLM, with agents and RAG built in.
 - **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)**: the official Python SDK for the Model Context Protocol, the standard for connecting AI assistants to external tools and data.
+- **[Gradio](https://github.com/gradio-app/gradio)**: the Python library for building and sharing machine-learning demos and web apps, used across Hugging Face Spaces.
 
 **Python & developer ecosystem**
 - **[Python Developer's Guide](https://github.com/python/devguide)**: the official guide to contributing to CPython itself, covering setup, workflow, and the standards the language is developed under.
@@ -47,7 +48,6 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[CKAN](https://github.com/ckan/ckan)**: the open-source data management system powering catalog.data.gov, open.canada.ca/data, and data.humdata.org.
 - **[Datasette](https://github.com/simonw/datasette)**: an open source multi-tool for exploring and publishing data.
 - **[government.github.com](https://github.com/github/government.github.com)**: the directory of government organizations using GitHub for open government work.
-- **[BC Wallet](https://github.com/bcgov/bc-wallet-mobile)** (Government of B.C.): a mobile wallet for verifiable credentials.
 
 **Financial infrastructure**
 - **[Apache Fineract](https://github.com/apache/fineract-backoffice-ui)**: the back-office UI for Apache Fineract, the open-source core banking platform.
