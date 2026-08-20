@@ -22,7 +22,7 @@ I've spent two decades at the intersection of **technology, policy, and public s
 
 ### 🌱 Recent open-source contributions
 
-Projects where a pull request of mine has been reviewed and merged.
+Projects where I am a community contributor or where a pull request of mine has been reviewed and merged.
 
 **AI & LLM tooling**
 - **[OpenHands](https://github.com/OpenHands/OpenHands)**: an open-source platform for AI-driven software development agents.
