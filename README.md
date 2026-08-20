@@ -34,6 +34,7 @@ I've spent two decades at the intersection of **technology, policy, and public s
 **Python & developer ecosystem**
 - **[Python Developer's Guide](https://github.com/python/devguide)**: the official guide to contributing to CPython itself, covering setup, workflow, and the standards the language is developed under.
 - **[Furo](https://github.com/pradyunsg/furo)**: the Sphinx documentation theme behind the Python Developer's Guide, CPython's own documentation, and a large share of the Python ecosystem.
+- **[PyData Sphinx Theme](https://github.com/pydata/pydata-sphinx-theme)**: the Sphinx documentation theme behind the NumPy, pandas, SciPy and Matplotlib documentation.
 - **[python.org](https://github.com/python/pythondotorg)**: the Django application behind python.org itself, including the Python Software Foundation's membership, jobs board, and public board records.
 
 **Government design systems**
