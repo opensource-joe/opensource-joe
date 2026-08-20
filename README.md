@@ -45,6 +45,7 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[Web Experience Toolkit](https://github.com/wet-boew/wet-boew)** (Government of Canada): the open-source library behind accessible, usable, and interoperable Government of Canada websites.
 
 **Public sector & open data**
+- **[OSPOlogy](https://github.com/todogroup/ospology)** (TODO Group, Linux Foundation): the community resources behind Open Source Program Offices, including the OSPO Book.
 - **[code.gov](https://github.com/GSA/code-gov)** (GSA): the U.S. federal government's open source code in support of M-16-21.
 - **[repo-scaffolder](https://github.com/DSACMS/repo-scaffolder)** (Digital Service at CMS): templates and command-line tools for creating U.S. federal open-source repositories that meet policy requirements.
 - **[CKAN](https://github.com/ckan/ckan)**: the open-source data management system powering catalog.data.gov, open.canada.ca/data, and data.humdata.org.
