@@ -30,6 +30,7 @@ I've spent two decades at the intersection of **technology, policy, and public s
 - **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)**: the official Python SDK for the Model Context Protocol, the standard for connecting AI assistants to external tools and data.
 - **[Gradio](https://github.com/gradio-app/gradio)**: the Python library for building and sharing machine-learning demos and web apps, used across Hugging Face Spaces.
 - **[Chainlit](https://github.com/Chainlit/chainlit)**: the open-source Python framework for building conversational AI applications and their chat interfaces.
+- **[Jupyter Chat](https://github.com/jupyterlab/jupyter-chat)**: the chat interface behind Jupyter AI and other conversational extensions in JupyterLab.
 
 **Python & developer ecosystem**
 - **[Python Developer's Guide](https://github.com/python/devguide)**: the official guide to contributing to CPython itself, covering setup, workflow, and the standards the language is developed under.
