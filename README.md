@@ -29,6 +29,9 @@ Projects where I am a community contributor or where a pull request of mine has 
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**: a self-hostable, all-in-one application for turning documents and content into context for any LLM, with agents and RAG built in.
 - **[Jupyter Chat](https://github.com/jupyterlab/jupyter-chat)**: the chat interface behind Jupyter AI and other conversational extensions in JupyterLab.
 
+**Python**
+- **[CPython Developer's Guide](https://github.com/python/devguide)**: the guide the Python core team maintains for people contributing to CPython itself.
+
 **Government design systems**
 - **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
 - **[GC Design System](https://github.com/cds-snc/gcds-components)** (Canadian Digital Service): the web components behind Government of Canada digital services.
