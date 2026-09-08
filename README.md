@@ -40,6 +40,7 @@ Projects where I am a community contributor or where a pull request of mine has 
 
 **Public sector & open data**
 - **[OSPOlogy](https://github.com/todogroup/ospology)** (TODO Group, Linux Foundation): the community resources behind Open Source Program Offices, including the OSPO Book.
+- **[repo-scaffolder](https://github.com/DSACMS/repo-scaffolder)** (CMS Open Source Program Office): the templates and command-line tools federal teams use to stand up open-source repositories against a maturity-model framework.
 - **[CKAN](https://github.com/ckan/ckan)**: the open-source data management system powering catalog.data.gov, open.canada.ca/data, and data.humdata.org.
 - **[government.github.com](https://github.com/github/government.github.com)**: the directory of government organizations using GitHub for open government work.
 
