@@ -36,6 +36,7 @@ Projects where I am a community contributor or where a pull request of mine has 
 - **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
 - **[GC Design System](https://github.com/cds-snc/gcds-components)** (Canadian Digital Service): the web components behind Government of Canada digital services.
 - **[GC Design System Docs](https://github.com/cds-snc/gcds-docs)** (Canadian Digital Service): the bilingual documentation site teams use to adopt the GC Design System.
+- **[GC Design System Code Display](https://github.com/gcds-extensions/code-display)** (Canadian Digital Service): the standalone web component that renders live, editable component previews on the GC Design System documentation site.
 - **[Web Experience Toolkit](https://github.com/wet-boew/wet-boew)** (Government of Canada): the open-source library behind accessible, usable, and interoperable Government of Canada websites.
 
 **Public sector & open data**
