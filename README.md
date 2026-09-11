@@ -31,6 +31,7 @@ Projects where I am a community contributor or where a pull request of mine has 
 
 **Python**
 - **[CPython Developer's Guide](https://github.com/python/devguide)**: the guide the Python core team maintains for people contributing to CPython itself.
+- **[PyData Sphinx Theme](https://github.com/pydata/pydata-sphinx-theme)**: the Sphinx documentation theme behind the NumPy, pandas, SciPy and Matplotlib documentation.
 
 **Government design systems**
 - **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
