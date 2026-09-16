@@ -22,32 +22,46 @@ I've spent two decades at the intersection of **technology, policy, and public s
 
 ### 🌱 Recent open-source contributions
 
-Projects where I am a community contributor or where a pull request of mine has been reviewed and merged.
+Projects where I am a community contributor, with pull requests open, under review, or merged.
 
 **AI & LLM tooling**
 - **[OpenHands](https://github.com/OpenHands/OpenHands)**: an open-source platform for AI-driven software development agents.
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**: a self-hostable, all-in-one application for turning documents and content into context for any LLM, with agents and RAG built in.
 - **[Jupyter Chat](https://github.com/jupyterlab/jupyter-chat)**: the chat interface behind Jupyter AI and other conversational extensions in JupyterLab.
+- **[Chainlit](https://github.com/Chainlit/chainlit)**: the open-source framework for building conversational AI applications.
+- **[Gradio](https://github.com/gradio-app/gradio)**: the Python framework behind building and sharing machine learning app demos.
+- **[Aider](https://github.com/Aider-AI/aider)**: AI pair programming in the terminal, editing a real git repo rather than a sandboxed copy.
+- **[Kubeflow](https://github.com/kubeflow/website)**: the documentation site for the Kubernetes-native machine learning toolkit.
+- **[Lex](https://github.com/i-dot-ai/lex)** (UK Incubator for AI): a legal API for AI agents and researchers, built by the UK government's AI innovation team.
+
+**API & infrastructure**
+- **[Apache APISIX Dashboard](https://github.com/apache/apisix-dashboard)**: the dashboard for Apache APISIX, the cloud-native API gateway — the layer where LLM traffic increasingly meets API infrastructure.
+- **[Apache ActiveMQ Artemis Console](https://github.com/apache/artemis-console)**: the web console for the open-source message broker.
 
 **Python**
 - **[CPython Developer's Guide](https://github.com/python/devguide)**: the guide the Python core team maintains for people contributing to CPython itself.
 - **[PyData Sphinx Theme](https://github.com/pydata/pydata-sphinx-theme)**: the Sphinx documentation theme behind the NumPy, pandas, SciPy and Matplotlib documentation.
+- **[Furo](https://github.com/pradyunsg/furo)**: a clean, customizable documentation theme for Sphinx.
 
 **Government design systems**
 - **[USWDS](https://github.com/uswds/uswds)**: the U.S. Web Design System, helping federal agencies build fast, accessible, mobile-friendly websites.
+- **[GOV.UK Frontend](https://github.com/alphagov/govuk-frontend)**: the frontend framework behind GOV.UK, the UK government's design system.
 - **[GC Design System](https://github.com/cds-snc/gcds-components)** (Canadian Digital Service): the web components behind Government of Canada digital services.
 - **[GC Design System Docs](https://github.com/cds-snc/gcds-docs)** (Canadian Digital Service): the bilingual documentation site teams use to adopt the GC Design System.
 - **[GC Design System Code Display](https://github.com/gcds-extensions/code-display)** (Canadian Digital Service): the standalone web component that renders live, editable component previews on the GC Design System documentation site.
 - **[Web Experience Toolkit](https://github.com/wet-boew/wet-boew)** (Government of Canada): the open-source library behind accessible, usable, and interoperable Government of Canada websites.
 
 **Public sector & open data**
+- **[Code.gov](https://github.com/GSA/code-gov)**: the federal open source program I ran as director, now as an outside contributor.
 - **[OSPOlogy](https://github.com/todogroup/ospology)** (TODO Group, Linux Foundation): the community resources behind Open Source Program Offices, including the OSPO Book.
 - **[repo-scaffolder](https://github.com/DSACMS/repo-scaffolder)** (CMS Open Source Program Office): the templates and command-line tools federal teams use to stand up open-source repositories against a maturity-model framework.
 - **[CKAN](https://github.com/ckan/ckan)**: the open-source data management system powering catalog.data.gov, open.canada.ca/data, and data.humdata.org.
+- **[Datasette](https://github.com/simonw/datasette)**: an open-source multi-tool for exploring and publishing data.
 - **[government.github.com](https://github.com/github/government.github.com)**: the directory of government organizations using GitHub for open government work.
 
 **Financial infrastructure**
 - **[Apache Fineract](https://github.com/apache/fineract-backoffice-ui)**: the back-office UI for Apache Fineract, the open-source core banking platform.
+- **[Architecture as Code](https://github.com/finos/architecture-as-code)** (FINOS): managing software architecture as a version-controlled, machine-readable codebase.
 
 ### 📊 Writing & analysis
 - **[Government Open Source: An Analysis](https://joecastle.dev/gov-oss-analysis/)** ([repo](https://github.com/opensource-joe/gov-oss-analysis)): a census of the 1,079 government GitHub organizations on `governments.yml`: 75,638 public repos, how much is still maintained, and how much accepts outside contributions.
