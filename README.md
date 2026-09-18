@@ -29,7 +29,6 @@ Projects where I am a community contributor, with pull requests open, under revi
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**: a self-hostable, all-in-one application for turning documents and content into context for any LLM, with agents and RAG built in.
 - **[Jupyter Chat](https://github.com/jupyterlab/jupyter-chat)**: the chat interface behind Jupyter AI and other conversational extensions in JupyterLab.
 - **[Chainlit](https://github.com/Chainlit/chainlit)**: the open-source framework for building conversational AI applications.
-- **[Gradio](https://github.com/gradio-app/gradio)**: the Python framework behind building and sharing machine learning app demos.
 - **[Aider](https://github.com/Aider-AI/aider)**: AI pair programming in the terminal, editing a real git repo rather than a sandboxed copy.
 - **[Kubeflow](https://github.com/kubeflow/website)**: the documentation site for the Kubernetes-native machine learning toolkit.
 - **[Lex](https://github.com/i-dot-ai/lex)** (UK Incubator for AI): a legal API for AI agents and researchers, built by the UK government's AI innovation team.
