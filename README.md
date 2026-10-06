@@ -34,7 +34,7 @@ Projects where I am a community contributor, with pull requests open, under revi
 - **[Lex](https://github.com/i-dot-ai/lex)** (UK Incubator for AI): a legal API for AI agents and researchers, built by the UK government's AI innovation team.
 
 **API & infrastructure**
-- **[Apache APISIX Dashboard](https://github.com/apache/apisix-dashboard)**: the dashboard for Apache APISIX, the cloud-native API gateway — the layer where LLM traffic increasingly meets API infrastructure.
+- **[Apache APISIX Dashboard](https://github.com/apache/apisix-dashboard)**: the dashboard for Apache APISIX, the cloud-native API gateway, the layer where LLM traffic increasingly meets API infrastructure.
 - **[Apache ActiveMQ Artemis Console](https://github.com/apache/artemis-console)**: the web console for the open-source message broker.
 
 **Python**
