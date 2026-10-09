@@ -69,6 +69,7 @@ Projects where I am a community contributor, with pull requests open, under revi
 I use AI coding assistants to get up to speed on unfamiliar codebases quickly. I read, run, and take responsibility for everything I submit, and if a patch of mine is wrong, that's on me. Reviewer time is the scarcest resource in open source, and I try hard not to waste it.
 
 ### 🏛️ Background
+- **Political appointee, Office of the Comptroller of Maryland**: leading the agency's AI efforts
 - **VP, Technology Solutions at [HumanTouch, LLC](https://www.humantouch.ai/)**: leading AI engineering and agentic-AI workflows on the **[CORASai](https://coras.ai/)** platform in collaboration with federal agencies, carrying two decades of open-source and gov-tech leadership into the AI era
 - **Maryland Governor Appointment to the Council for Open Data**: supporting the State Chief Data Officer (CDO) on implementation of SB0200/HB0262 by working with state agencies and local governments to meet the Governor's priorities
 - **Director, Code.gov**: ran the federal Open Source Program Office (OSPO) and grew federal open-source participation from 45 to 7,000 repositories across 20 agencies. Brought the platform into **Section 508** compliance and added automated accessibility testing to its CI pipeline
